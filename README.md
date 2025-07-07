@@ -22,8 +22,8 @@ source venv/bin/activate       # macOS/Linux
 pip install -r requirements.txt
 
 # 3. Set your Julep key
-export JULEP_API_KEY="your_julep_key_here"
-# $Env:JULEP_API_KEY="your_julep_key_here"  # Windows PowerShell
+export JULEP_API_KEY="eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMmQyNmE1Mi1lZjFlLTU5MmItOWVmYS0wY2MwMGY1YjIyZWEiLCJlbWFpbCI6ImV5b3NhZmV0YWxlbUBnbWFpbC5jb20iLCJpYXQiOjE3NTE4NzQzOTksImV4cCI6MTc1MjQ3OTE5OX0.q1YrKA0ZhxBPkomGfhjvhFVyoO4rHj_t5rIeR3BKcFijNFvguTOG9Mio9VaVFSZvkeXXUOyBEkHv2x6q86IUBg"
+# $Env:JULEP_API_KEY="eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMmQyNmE1Mi1lZjFlLTU5MmItOWVmYS0wY2MwMGY1YjIyZWEiLCJlbWFpbCI6ImV5b3NhZmV0YWxlbUBnbWFpbC5jb20iLCJpYXQiOjE3NTE4NzQzOTksImV4cCI6MTc1MjQ3OTE5OX0.q1YrKA0ZhxBPkomGfhjvhFVyoO4rHj_t5rIeR3BKcFijNFvguTOG9Mio9VaVFSZvkeXXUOyBEkHv2x6q86IUBg"  # Windows PowerShell
 
 # 4. Launch the app
 voila FoodieTour.ipynb
