@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# VSCode
+.vscode/
